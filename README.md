@@ -2,6 +2,12 @@
 // main class for shopping cart program that asks users to fill their cart from a product list
 
 
+
+
+
+
+
+
 public static void main(String[] args) throws FileNotFoundException {
 		
 		//import scanner
